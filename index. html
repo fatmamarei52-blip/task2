@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>التجارة الإلكترونية والمنصات الرقمية</title>
+</head>
+<body>
+
+<h1>التجارة الإلكترونية والمنصات الرقمية</h1>
+
+<p><strong>اسم الطالبة:</strong> فاطمة محمد علي عبدالعزيز مرعي</p>
+<p><strong>الرقم الجامعي / رقم السكشن:</strong> 107 - 2502337</p>
+
+<h2>المقدمة</h2>
+<p>تعد <strong>التجارة الإلكترونية</strong> من أهم تطبيقات الإنترنت...</p>
+
+<h3>شكل (1): دور المنصات</h3>
+<img src="ecommerce.jpg" alt="التجارة الإلكترونية" width="100%">
+
+<h2>عرض الموضوع</h2>
+<h3>1. ما هي التجارة الإلكترونية؟</h3>
+<p>تعرف بأنها عمليات بيع وشراء...</p>
+
+<table border="1">
+<tr><th>الرمز</th><th>النموذج</th><th>المعاملة</th><th>مثال</th></tr>
+<tr><td>B2C</td><td>شركات لمستهلك</td><td>بيع مباشر</td><td>نون - أمازون</td></tr>
+<tr><td>B2B</td><td>شركات لشركات</td><td>تبادل خدمات</td><td>Alibaba</td></tr>
+<tr><td>C2C</td><td>مستهلك لمستهلك</td><td>وسيط</td><td>eBay - حراج</td></tr>
+</table>
+
+<h2>المراجع</h2>
+<ul>
+<li><a href="https://ar.wikipedia.org/wiki/تجارة_إلكترونية">ويكيبيديا</a></li>
+<li><a href="https://www.mcit.gov.eg/">وزارة الاتصالات</a></li>
+<li><a href="https://ecommerceguide.com/">Ecommerce Guide</a></li>
+</ul>
+
+</body>
+</html>
